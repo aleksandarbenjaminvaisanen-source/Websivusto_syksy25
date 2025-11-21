@@ -1,3 +1,7 @@
+body {
+    background-color: blue;
+}
+
 .flex-container {
   display: flex;
   justify-content: space-around;
